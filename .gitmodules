@@ -1,0 +1,3 @@
+[submodule "MYVUE"]
+	path = MYVUE
+	url = https://github.com/luckydbc/MYVUE.git
